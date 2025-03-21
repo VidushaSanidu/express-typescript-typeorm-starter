@@ -95,3 +95,6 @@ jspm_packages/
 # Firebase
 firebaseKeys.json
 .vercel
+
+# build output
+dist/
